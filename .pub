@@ -1,0 +1,3 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEFi4WQmEaXy1jnc6mICH1z4KDfFvCs2T4FmiXMv4GGq your_email@example.co[Cmhasanmirzakulov@gmail.com
+
+ssh-keygen -t ed25519 -C your_email@example.co[Cmhasanmirzakulov@gmail.com
